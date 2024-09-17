@@ -1,0 +1,40 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment directories
+env/
+venv/
+.venv/
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.out
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables or secret files (such as API keys)
+.env
+*.env
+
+# Ignore any config files containing sensitive data
+config.json
